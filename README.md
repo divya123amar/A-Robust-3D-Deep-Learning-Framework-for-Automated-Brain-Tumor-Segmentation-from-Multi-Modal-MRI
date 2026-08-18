@@ -351,19 +351,6 @@ These directions follow the limitations identified in the submitted paper.
 
 The submitted manuscript identifies the work as a 3D deep-learning framework for automated segmentation using FLAIR, T1, T1ce, and T2 modalities on BraTS2020.
 
----
-
-## 📚 Citation
-
-If you use this implementation or build upon this work, please cite:
-
-```bibtex
-@inproceedings{divyashree2026brain,
-  title     = {A Robust 3D Deep Learning Framework for Automated Brain Tumor Segmentation from Multi-Modal MRI},
-
-}
-
-
 ## ⚕️ Disclaimer
 
 This repository is intended exclusively for **research and academic purposes**.
